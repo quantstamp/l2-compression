@@ -1,0 +1,5 @@
+build
+.env
+.cache
+node_modules
+.svn

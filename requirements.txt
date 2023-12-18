@@ -1,0 +1,6 @@
+brotli
+zstd
+eth_utils
+rlp==0.6.0
+pandas
+matplotlib
